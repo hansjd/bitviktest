@@ -39,7 +39,7 @@ although input is cas insensitive, output is always returned in UPPERCASE.
 ###countries.json
 countries.json contains all the country name and country code in a json format<br>
 template.
-```json
+```js
 {
 	"AF": [
 		"AFGHANISTAN"
